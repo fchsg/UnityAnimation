@@ -1,3 +1,6 @@
 UnityAnimationTrunk/UnityAnimationTrunk.sln
 UnityAnimationTrunk/Logs
 UnityAnimationTrunk/Library
+UnityAnimationTrunk/UserSettings
+*.csproj
+UnityAnimationTrunk/Temp
